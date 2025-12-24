@@ -412,7 +412,7 @@ class AIHumanDetectorApp:
     /* Tüm sayfanın arka planı */
     .stApp {
         background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.95)),
-                    url(''https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80');
+                    url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
