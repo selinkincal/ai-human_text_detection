@@ -8,6 +8,8 @@ def combine_and_prepare_data():
     print("=" * 60)
     print("           VERİLERİ BİRLEŞTİRME VE ML HAZIRLIĞI")
     print("=" * 60)
+
+
     
     # 1. Temizlenmiş verileri yükle
     print("\n📥 VERİLER YÜKLENİYOR...")

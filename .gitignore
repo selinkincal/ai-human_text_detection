@@ -4,5 +4,7 @@ test_data.csv
 full_dataset.csv
 dataset_stats.json
 arxiv_abstracts.csv
-
+*.pkl
+*.csv
+__pycache__/
 
